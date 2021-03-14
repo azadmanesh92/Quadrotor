@@ -1,5 +1,8 @@
 # Quadrotor
 Modern Control Course Project - Controller Design for a Quadrotor
+
+In Farsi:
+
 پروژه درس کنترل مدرن
 
  در این پروژه، موارد زیر انجام شده است:
