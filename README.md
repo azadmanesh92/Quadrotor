@@ -2,16 +2,26 @@
 Modern Control Course Project - Controller Design for a Quadrotor
 
 General expression of quad-rotor system
+
 Dynamic extraction of the system by Euler method
+
 Preliminary simulation of dynamics extracted in Simulink
+
 Open-loop simulation in hover conditions
+
 Trim Point Extraction - Hover Condition Working Point
+
 Linearization of equations around the trim point
+
 Matrix Extraction of Linear Systems - State Space Equations
+
 Linear system analysis using system linear matrices, eigenvalues, controllability, observability
 Mode feedback controller design
+
 Observer design
+
 Implementation of the controller on a 6-degree nonlinear freedom model
+
 Final closed loop simulation
 
 
